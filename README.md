@@ -14,7 +14,7 @@
 ## Тесты: 
 Содержит тесты функционала.
 ## Установка:
-Клонируйте репозиторий: git clone https://github.com/WingBasil/CW_2_OOP
+Клонируйте репозиторий: git clone https://github.com/WingBasil/PP_CW_2
 ## Установите зависимости:
 pip install -r requirements.txt
 ## Документация: - 
