@@ -1,0 +1,88 @@
+Наименование вакансии: Senior front-end разработчик (TypeScript, React)
+Ссылка на вакансию: https://hh.ru/vacancy/101125199
+Зарплата: от 320000 до 460000
+Место работы: Москва
+Краткое описание: None
+Ищем опытного front-end разработчика для создания новых интерфейсов и улучшения платформы фронтенда. Ожидаем самостоятельного проектирования и реализации задач, сложных...
+
+Наименование вакансии: Frontend-разработчик (Middle/Middle+, React)
+Ссылка на вакансию: https://hh.ru/vacancy/116460292
+Зарплата: от 130000 до 0
+Место работы: Москва
+Краткое описание: Владение: JavaScript, TypeScript. ES6, Next.js, Redux Thunk, HTML5, CSS3, Git. Опыт и знания: SSR, хуки, REST API...
+Разрабатывать новые проекты и поддерживать существующие. Создавать программные модули и улучшать текущий функционал. Проектировать и разрабатывать UI с графиками и...
+
+Наименование вакансии: QA инженер / Инженер по тестированию (middle)
+Ссылка на вакансию: https://hh.ru/vacancy/115548650
+Зарплата: от 130000 до 0
+Место работы: Москва
+Краткое описание: Не менее 2-х лет опыта в коммерческой разработке в качестве QA инженера (API, mobile, web). Без опыта тестирования мобильных...
+Тестирование новых фич: Проведение регрессионного тестирования. Баг-репорты: Заведение баг-репортов и задач на улучшение. Написание тестовой документации. 
+
+Наименование вакансии: Backend-разработчик
+Ссылка на вакансию: https://hh.ru/vacancy/116858500
+Зарплата: от 80000 до 160000
+Место работы: Москва
+Краткое описание: Django Drf или Ninja Django. Aiogram. Nginx. CI/CD. Docker. Git. Ruff.
+Работа в команде, по спринтам. Работа в GitHub. Настройка CI/CD. Деплой приложения на <highlighttext>dev</highlighttext>, demo и prod стенды.
+
+Наименование вакансии: Middle Front-End Developer
+Ссылка на вакансию: https://hh.ru/vacancy/117155922
+Зарплата: от 2000 до 0
+Место работы: Тбилиси
+Краткое описание: At least intermediate English language proficiency. Experience with browser <highlighttext>Dev</highlighttext> Tools - for performance analysis and debugging. Portfolio with your own...
+Develop and optimize HTML5 games in collaboration with different teams. Write clean, efficient, and maintainable code with a strong...
+
+Наименование вакансии: Javascript developer (Junior/Middle+/Senior)
+Ссылка на вакансию: https://hh.ru/vacancy/116993821
+Зарплата: от 600 до 3500
+Место работы: Минск
+Краткое описание: Глубокое понимание асинхронного программирования (Callback, Event Loop, Promise, Observable). Понимание основ функционального программирования. WebGL, PixiJS, Babylon.js. Опыт в game <highlighttext>dev</highlighttext>.
+Описание проектов: Разработка проектов идёт на React/Redux с использование Redux-Epics. Используется GraphqQL, Websocket, RxJS, WebGL. JavaScript (ES6...
+
+Наименование вакансии: Architect/Team Lead
+Ссылка на вакансию: https://hh.ru/vacancy/117146989
+Зарплата: от 0 до 7000
+Место работы: Москва
+Краткое описание: Proven work experience as an IT system architect. Proven work experience as a team lead. In-depth understanding of the...
+Reporting to the immediate supervisor. Participation in certifications. Participation in organizing <highlighttext>Dev</highlighttext>(Sec)Ops pipelines. Development and documentation of information...
+Наименование вакансии: QA инженер / Инженер по тестированию (middle)
+Ссылка на вакансию: https://hh.ru/vacancy/115548650
+Зарплата: от 130000 до 0
+Место работы: Москва
+Краткое описание: Не менее 2-х лет опыта в коммерческой разработке в качестве QA инженера (API, mobile, web). Без опыта тестирования мобильных...
+Тестирование новых фич: Проведение регрессионного тестирования. Баг-репорты: Заведение баг-репортов и задач на улучшение. Написание тестовой документации. 
+
+Наименование вакансии: Middle Front-End Developer
+Ссылка на вакансию: https://hh.ru/vacancy/117155922
+Зарплата: от 2000 до 0
+Место работы: Тбилиси
+Краткое описание: At least intermediate English language proficiency. Experience with browser <highlighttext>Dev</highlighttext> Tools - for performance analysis and debugging. Portfolio with your own...
+Develop and optimize HTML5 games in collaboration with different teams. Write clean, efficient, and maintainable code with a strong...
+
+Наименование вакансии: Javascript developer (Junior/Middle+/Senior)
+Ссылка на вакансию: https://hh.ru/vacancy/116993821
+Зарплата: от 600 до 3500
+Место работы: Минск
+Краткое описание: Глубокое понимание асинхронного программирования (Callback, Event Loop, Promise, Observable). Понимание основ функционального программирования. WebGL, PixiJS, Babylon.js. Опыт в game <highlighttext>dev</highlighttext>.
+Описание проектов: Разработка проектов идёт на React/Redux с использование Redux-Epics. Используется GraphqQL, Websocket, RxJS, WebGL. JavaScript (ES6...
+Наименование вакансии: QA инженер / Инженер по тестированию (middle)
+Ссылка на вакансию: https://hh.ru/vacancy/115548650
+Зарплата: от 130000 до 0
+Место работы: Москва
+Краткое описание: Не менее 2-х лет опыта в коммерческой разработке в качестве QA инженера (API, mobile, web). Без опыта тестирования мобильных...
+Тестирование новых фич: Проведение регрессионного тестирования. Баг-репорты: Заведение баг-репортов и задач на улучшение. Написание тестовой документации. 
+
+Наименование вакансии: Middle Front-End Developer
+Ссылка на вакансию: https://hh.ru/vacancy/117155922
+Зарплата: от 2000 до 0
+Место работы: Тбилиси
+Краткое описание: At least intermediate English language proficiency. Experience with browser <highlighttext>Dev</highlighttext> Tools - for performance analysis and debugging. Portfolio with your own...
+Develop and optimize HTML5 games in collaboration with different teams. Write clean, efficient, and maintainable code with a strong...
+
+Наименование вакансии: Javascript developer (Junior/Middle+/Senior)
+Ссылка на вакансию: https://hh.ru/vacancy/116993821
+Зарплата: от 600 до 3500
+Место работы: Минск
+Краткое описание: Глубокое понимание асинхронного программирования (Callback, Event Loop, Promise, Observable). Понимание основ функционального программирования. WebGL, PixiJS, Babylon.js. Опыт в game <highlighttext>dev</highlighttext>.
+Описание проектов: Разработка проектов идёт на React/Redux с использование Redux-Epics. Используется GraphqQL, Websocket, RxJS, WebGL. JavaScript (ES6...

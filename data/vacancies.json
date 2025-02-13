@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Frontend-разработчик (Middle/Middle+, React)",
+        "alternate_url": "https://hh.ru/vacancy/116460292",
+        "salary_from": 130000,
+        "salary_to": 0,
+        "area_name": "Москва",
+        "requirement": "Владение: JavaScript, TypeScript. ES6, Next.js, Redux Thunk, HTML5, CSS3, Git. Опыт и знания: SSR, хуки, REST API...",
+        "responsibility": "Разрабатывать новые проекты и поддерживать существующие. Создавать программные модули и улучшать текущий функционал. Проектировать и разрабатывать UI с графиками и..."
+    },
+    {
+        "name": "QA инженер / Инженер по тестированию (middle)",
+        "alternate_url": "https://hh.ru/vacancy/115548650",
+        "salary_from": 130000,
+        "salary_to": 0,
+        "area_name": "Москва",
+        "requirement": "Не менее 2-х лет опыта в коммерческой разработке в качестве QA инженера (API, mobile, web). Без опыта тестирования мобильных...",
+        "responsibility": "Тестирование новых фич: Проведение регрессионного тестирования. Баг-репорты: Заведение баг-репортов и задач на улучшение. Написание тестовой документации. "
+    },
+    {
+        "name": "Middle Front-End Developer",
+        "alternate_url": "https://hh.ru/vacancy/117155922",
+        "salary_from": 2000,
+        "salary_to": 0,
+        "area_name": "Тбилиси",
+        "requirement": "At least intermediate English language proficiency. Experience with browser <highlighttext>Dev</highlighttext> Tools - for performance analysis and debugging. Portfolio with your own...",
+        "responsibility": "Develop and optimize HTML5 games in collaboration with different teams. Write clean, efficient, and maintainable code with a strong..."
+    },
+    {
+        "name": "Javascript developer (Junior/Middle+/Senior)",
+        "alternate_url": "https://hh.ru/vacancy/116993821",
+        "salary_from": 600,
+        "salary_to": 3500,
+        "area_name": "Минск",
+        "requirement": "Глубокое понимание асинхронного программирования (Callback, Event Loop, Promise, Observable). Понимание основ функционального программирования. WebGL, PixiJS, Babylon.js. Опыт в game <highlighttext>dev</highlighttext>.",
+        "responsibility": "Описание проектов: Разработка проектов идёт на React/Redux с использование Redux-Epics. Используется GraphqQL, Websocket, RxJS, WebGL. JavaScript (ES6..."
+    },
+    {
+        "name": "Architect/Team Lead",
+        "alternate_url": "https://hh.ru/vacancy/117146989",
+        "salary_from": 0,
+        "salary_to": 7000,
+        "area_name": "Москва",
+        "requirement": "Proven work experience as an IT system architect. Proven work experience as a team lead. In-depth understanding of the...",
+        "responsibility": "Reporting to the immediate supervisor. Participation in certifications. Participation in organizing <highlighttext>Dev</highlighttext>(Sec)Ops pipelines. Development and documentation of information..."
+    },
+    {
+        "name": "QA инженер / Инженер по тестированию (middle)",
+        "alternate_url": "https://hh.ru/vacancy/115548650",
+        "salary_from": 130000,
+        "salary_to": 0,
+        "area_name": "Москва",
+        "requirement": "Не менее 2-х лет опыта в коммерческой разработке в качестве QA инженера (API, mobile, web). Без опыта тестирования мобильных...",
+        "responsibility": "Тестирование новых фич: Проведение регрессионного тестирования. Баг-репорты: Заведение баг-репортов и задач на улучшение. Написание тестовой документации. "
+    },
+    {
+        "name": "Middle Front-End Developer",
+        "alternate_url": "https://hh.ru/vacancy/117155922",
+        "salary_from": 2000,
+        "salary_to": 0,
+        "area_name": "Тбилиси",
+        "requirement": "At least intermediate English language proficiency. Experience with browser <highlighttext>Dev</highlighttext> Tools - for performance analysis and debugging. Portfolio with your own...",
+        "responsibility": "Develop and optimize HTML5 games in collaboration with different teams. Write clean, efficient, and maintainable code with a strong..."
+    },
+    {
+        "name": "Javascript developer (Junior/Middle+/Senior)",
+        "alternate_url": "https://hh.ru/vacancy/116993821",
+        "salary_from": 600,
+        "salary_to": 3500,
+        "area_name": "Минск",
+        "requirement": "Глубокое понимание асинхронного программирования (Callback, Event Loop, Promise, Observable). Понимание основ функционального программирования. WebGL, PixiJS, Babylon.js. Опыт в game <highlighttext>dev</highlighttext>.",
+        "responsibility": "Описание проектов: Разработка проектов идёт на React/Redux с использование Redux-Epics. Используется GraphqQL, Websocket, RxJS, WebGL. JavaScript (ES6..."
+    },
+    {
+        "name": "QA инженер / Инженер по тестированию (middle)",
+        "alternate_url": "https://hh.ru/vacancy/115548650",
+        "salary_from": 130000,
+        "salary_to": 0,
+        "area_name": "Москва",
+        "requirement": "Не менее 2-х лет опыта в коммерческой разработке в качестве QA инженера (API, mobile, web). Без опыта тестирования мобильных...",
+        "responsibility": "Тестирование новых фич: Проведение регрессионного тестирования. Баг-репорты: Заведение баг-репортов и задач на улучшение. Написание тестовой документации. "
+    },
+    {
+        "name": "Middle Front-End Developer",
+        "alternate_url": "https://hh.ru/vacancy/117155922",
+        "salary_from": 2000,
+        "salary_to": 0,
+        "area_name": "Тбилиси",
+        "requirement": "At least intermediate English language proficiency. Experience with browser <highlighttext>Dev</highlighttext> Tools - for performance analysis and debugging. Portfolio with your own...",
+        "responsibility": "Develop and optimize HTML5 games in collaboration with different teams. Write clean, efficient, and maintainable code with a strong..."
+    },
+    {
+        "name": "Javascript developer (Junior/Middle+/Senior)",
+        "alternate_url": "https://hh.ru/vacancy/116993821",
+        "salary_from": 600,
+        "salary_to": 3500,
+        "area_name": "Минск",
+        "requirement": "Глубокое понимание асинхронного программирования (Callback, Event Loop, Promise, Observable). Понимание основ функционального программирования. WebGL, PixiJS, Babylon.js. Опыт в game <highlighttext>dev</highlighttext>.",
+        "responsibility": "Описание проектов: Разработка проектов идёт на React/Redux с использование Redux-Epics. Используется GraphqQL, Websocket, RxJS, WebGL. JavaScript (ES6..."
+    }
+]
